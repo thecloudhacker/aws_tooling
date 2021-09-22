@@ -6,11 +6,11 @@ A collection of tools and scripts used to control AWS systems, support everyday 
 
 ## Command-line tooling
 
-[AMI Control Script](./ami_control/README.md)
+[AMI Control Script](./ami_control/)
 
 
 ## Terraform Scripts
 
 Scripts to generate base aws account configuration, buckets or generic stacks.
 
-[terraform scripts](./terraform/README.md)
+[terraform scripts](./terraform/)
