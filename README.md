@@ -8,3 +8,9 @@ A collection of tools and scripts used to control AWS systems, support everyday 
 
 [AMI Control Script](./ami_control/README.md)
 
+
+## Terraform Scripts
+
+Scripts to generate base aws account configuration, buckets or generic stacks.
+
+[terraform scripts](./terraform/README.md)

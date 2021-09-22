@@ -70,6 +70,7 @@ For example:
     ]
 }
 ```
+
 Name it *s3-terraform* so that you can easily see what it is.
 
 This will allow the user to access and use the folder correctly going forward.
