@@ -6,7 +6,8 @@ A collection of tools and scripts used to control AWS systems, support everyday 
 
 ## Command-line tooling
 
-[AMI Control Script](./ami_control/)
+[AMI Control Script](./scripts/ami_control/)
+[Cognito Users](./scripts/cognito/)
 
 
 ## Terraform Scripts
