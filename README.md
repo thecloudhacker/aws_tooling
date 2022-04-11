@@ -6,7 +6,10 @@ A collection of tools and scripts used to control AWS systems, support everyday 
 
 ## Command-line tooling
 
+Powershell tooling to run specific tasks.
+
 [AMI Control Script](./scripts/ami_control/)
+
 [Cognito Users](./scripts/cognito/)
 
 
