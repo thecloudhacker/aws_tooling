@@ -12,11 +12,11 @@ Powershell tooling to run specific tasks.
 
 [Cognito Users](scripts/cognito/README.md)
 
-[security](security/README.md)
+[security](scripts/security/README.md)
 
-[Budgets](budgets/README.md)
+[Budgets](scripts/budgets/README.md)
 
-[CloudWatch Dashboards](dashboards/README.md)
+[CloudWatch Dashboards](scripts/dashboards/README.md)
 
 ## Terraform Scripts
 
