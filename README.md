@@ -8,10 +8,15 @@ A collection of tools and scripts used to control AWS systems, support everyday 
 
 Powershell tooling to run specific tasks.
 
-[AMI Control Script](./scripts/ami_control/)
+[AMI Control Script](scripts/ami_control/README.md)
 
-[Cognito Users](./scripts/cognito/)
+[Cognito Users](scripts/cognito/README.md)
 
+[security](security/README.md)
+
+[Budgets](budgets/README.md)
+
+[CloudWatch Dashboards](dashboards/README.md)
 
 ## Terraform Scripts
 
