@@ -18,6 +18,8 @@ Powershell tooling to run specific tasks.
 
 [CloudWatch Dashboards](scripts/dashboards/README.md)
 
+[Maintenance Tasks](scripts/maintenance/README.md)
+
 ## Terraform Scripts
 
 Scripts to generate base aws account configuration, buckets or generic stacks.
