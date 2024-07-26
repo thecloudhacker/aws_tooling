@@ -6,7 +6,7 @@ A collection of tools and scripts used to control AWS systems, support everyday 
 
 ## Command-line tooling
 
-Powershell tooling to run specific tasks.
+### Powershell tooling to run specific tasks.
 
 [AMI Control Script](scripts/ami_control/README.md)
 
@@ -20,7 +20,11 @@ Powershell tooling to run specific tasks.
 
 [Maintenance Tasks](scripts/maintenance/README.md)
 
+
+### Shell Scripts
+
 [Infrastructure Discovery](scripts/discovery/README.md)
+
 
 ## Terraform Scripts
 
