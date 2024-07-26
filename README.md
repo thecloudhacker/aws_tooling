@@ -20,6 +20,8 @@ Powershell tooling to run specific tasks.
 
 [Maintenance Tasks](scripts/maintenance/README.md)
 
+[Infrastructure Discovery](scripts/discovery/README.md)
+
 ## Terraform Scripts
 
 Scripts to generate base aws account configuration, buckets or generic stacks.
